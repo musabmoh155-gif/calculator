@@ -1,0 +1,70 @@
+body{
+	text-align: center;
+	align-items: center;
+	grid-template-columns: 4,4;
+
+}
+#display{
+	width: 100%;
+	height: 50px;
+	border-color: black;
+	border-radius: 3px;
+	font-weight: 2em;
+	font-size: 40px;
+}
+button{
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	border: none;
+	background-color: rgb(65, 65, 65);
+	color: white;
+	font-family: helvetica;
+	font-weight: bolder;
+	font-size: 50px;
+}
+#plusbtn{
+	background-color: yellow;
+	color: black; 
+}
+#timesbtn{
+	background-color: yellow;
+	color: black; 
+}
+#divbtn{
+	background-color: yellow;
+	color: black; 
+}
+#equalbtn{
+	background-color: yellow;
+	color: black; 
+}
+#clearbtn{
+	background-color: yellow;
+	color: black; 
+}
+button:hover{
+	background-color: black;
+	width: 110px;
+	height: 110px;
+}
+#plusbtn:hover{
+	background-color: rgb(253, 253, 108);
+	color: black; 
+}
+#timesbtn:hover{
+	background-color: rgb(253, 253, 108);
+	color: black; 
+}
+#divbtn:hover{
+	background-color: rgb(253, 253, 108);
+	color: black; 
+}
+#equalbtn:hover{
+	background-color: rgb(253, 253, 108);
+	color: black; 
+}
+#clearbtn:hover{
+	background-color: rgb(253, 253, 108);
+	color: black; 
+}
