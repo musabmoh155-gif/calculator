@@ -2,7 +2,7 @@ body{
 	text-align: center;
 	align-items: center;
 	grid-template-columns: 4,4;
-
+	background-color: rgb(253, 253, 108)
 }
 #display{
 	width: 100%;
